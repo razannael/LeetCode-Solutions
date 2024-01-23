@@ -13,13 +13,13 @@ var timeLimit = function(fn, t) {
 
             fn(...args)
                 .then((result) => {
-                    clearTimeout(timer);
-                    resolve(result);
+                    clearTimeout(timer)
+                    resolve(result)
                 })
                 .catch((err) => {
-                    clearTimeout(timer);
-                    reject(err);
-                });
-        });
-    };
+                    clearTimeout(timer)
+                    reject(err)
+                })
+        })
+    }
 };
