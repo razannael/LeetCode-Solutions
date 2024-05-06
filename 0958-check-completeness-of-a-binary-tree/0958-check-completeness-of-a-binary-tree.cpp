@@ -21,6 +21,7 @@ public:
             q.pop();
             if(!curr) pre = true;
             else{
+                
                 if(pre) return false;
                 else{
                     q.push(curr->left);
