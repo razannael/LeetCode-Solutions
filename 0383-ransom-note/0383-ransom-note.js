@@ -4,7 +4,6 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-
     if(ransomNote.length > magazine.length) return false;
 
     const magazineTable = {}
