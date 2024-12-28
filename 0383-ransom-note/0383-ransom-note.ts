@@ -3,15 +3,16 @@
  * @param {string} magazine
  * @return {boolean}
  */
-var canConstruct = function(ransomNote, magazine) {
-    if(ransomNote.length > magazine.length) return false;
+var canConstruct = function (ransomNote, magazine) {
+    if (ransomNote.length > magazine.lenght) return false;
 
-    const magazineTable = {}
-    for(let c of magazine){
-        magazineTable[c] = (magazineTable[c] || 0 )+ 1;
+    const magazineTable = {};
+    for (let c of magazine) {
+        magazineTable[c] = (magazineTable[c] || 0) + 1;
     }
-    for (let c of ransomNote){
-        if(magazineTable[c] === 0 || magazineTable[c] === undefined) return false;
+    for (let c of ransomNote) {
+        let ransomeCount = magazineTable[c];
+        if (ransomeCount === 0 || ransomeCount === undefined) return false;
         magazineTable[c]--;
     }
     return true;
