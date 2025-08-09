@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/power-of-two">231. Power of Two</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, return <em><code>true</code> if it is a power of two. Otherwise, return <code>false</code></em>.</p>
+<h2><a href="https://leetcode.com/problems/power-of-two/?envType=daily-question&envId=2025-08-09">231. Power of Two</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, return <em><code>true</code> if it is a power of two. Otherwise, return <code>false</code></em>.</p>
 
 <p>An integer <code>n</code> is a power of two, if there exists an integer <code>x</code> such that <code>n == 2<sup>x</sup></code>.</p>
 
