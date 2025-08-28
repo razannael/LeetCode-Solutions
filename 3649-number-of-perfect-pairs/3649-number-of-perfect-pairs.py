@@ -1,19 +1,14 @@
-from typing import List
-
 class Solution:
     def perfectPairs(self, nums: List[int]) -> int:
-        # Sort by absolute value
-        nums.sort(key=abs)
-        n = len(nums)
-        ans = 0
-        j = 1
-
-        # Two pointers: for each i, expand j while |nums[j]| <= 2 * |nums[i]|
-        for i in range(n):
-            if j < i + 1:
-                j = i + 1
-            while j < n and abs(nums[j]) <= 2 * abs(nums[i]):
-                j += 1
-            ans += (j - i - 1)
-
+        num=[abs(x) for x in nums]
+        num.sort()
+        n=len(num)
+        i=n-1
+        j=n-2
+        ans=0
+        while i>=0:
+            while j>=0 and num[i]-num[j]<=num[j]:
+                j-=1
+            ans+=i-j-1
+            i-=1
         return ans
