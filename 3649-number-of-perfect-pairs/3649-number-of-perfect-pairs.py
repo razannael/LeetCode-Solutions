@@ -7,7 +7,7 @@ class Solution:
         j=n-2
         ans=0
         while i>=0:
-            while j>=0 and num[i]-num[j]<=num[j]:
+            while j>=0 and num[i] <= 2 * num[j]:
                 j-=1
             ans+=i-j-1
             i-=1
