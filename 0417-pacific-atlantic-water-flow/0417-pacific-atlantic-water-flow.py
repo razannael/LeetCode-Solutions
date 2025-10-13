@@ -1,69 +1,36 @@
 class Solution:
-    def pacificAtlantic(self, ht: List[List[int]]) -> List[List[int]]:
-        
-        def pac(i,j):
-            if rp[i][j]:
-                return True
-            k=False
-            h=ht[i][j]
-            ht[i][j]=100001
-            if ht[i-1][j]<=h:
-                k=k or pac(i-1,j)
-                
-            if ht[i][j-1]<=h:
-                k=k or pac(i,j-1)
-                
-            if i<m-1 and ht[i+1][j]<=h:
-                k=k or pac(i+1,j)
-                
-            if j<n-1 and ht[i][j+1]<=h:
-                k=k or pac(i,j+1)
-                
-            ht[i][j]=h
-            rp[i][j]=k
-            return k
-        
-        def ant(i,j):
-            if ra[i][j]:
-                return True
-            k=False
-            h=ht[i][j]
-            ht[i][j]=100001
-            if i>0 and ht[i-1][j]<=h:
-                k=k or ant(i-1,j)
-                
-            if j>0 and ht[i][j-1]<=h:
-                k=k or ant(i,j-1)
-                
-            if ht[i+1][j]<=h:
-                k=k or ant(i+1,j)
-                
-            if ht[i][j+1]<=h:
-                k=k or ant(i,j+1)
-                
-            ht[i][j]=h
-            ra[i][j]=k
-            return k
-        
-        m=len(ht)
-        n=len(ht[0])
-        rp=[[False for i in range(n)] for j in range(m)]
-        ra=[[False for i in range(n)] for j in range(m)]
-        
+    def pacificAtlantic(self, matrix: List[List[int]]) -> List[List[int]]:
+        if not matrix or not matrix[0]:
+                return []
+    
+        # list which will have both the coordinates
+        pacific = set()
+        atlantic = set()
+        # get the number of rows and columns
+        m,n = len(matrix), len(matrix[0])
+
+        # define left, right, up, down
+        directions = [(-1,0),(1,0),(0,1),(0,-1)]
+
+        # define the dfs traversal
+        def dfs(visited, x,y):
+            visited.add((x,y))
+            for dx, dy in directions:
+                new_x, new_y  = x + dx, y + dy
+
+                # if the coordinates are valid and if c(i) > c (i-1)
+                if 0 <= new_x < m and 0 <= new_y < n and (new_x, new_y) not in visited and matrix[new_x][new_y] >= matrix[x][y]:
+                    dfs (visited, new_x, new_y)
+
+        # iterate for rows
         for i in range(m):
-            rp[i][0]=True
-            ra[i][-1]=True
-        for i in range(n):
-            rp[0][i]=True
-            ra[-1][i]=True
-        
-        for i in range(m):
-            for j in range(n):
-                pac(i,j)
-                ant(i,j)
-        res=[]
-        for i in range(m):
-            for j in range(n):
-                if rp[i][j] and ra[i][j]:
-                    res.append([i,j])
-        return res
+            dfs(pacific, i , 0)
+            dfs(atlantic, i, n-1)
+
+        # iterate for columns
+        for j in range(n):
+            dfs(pacific, 0 , j)
+            dfs(atlantic, m-1, j)
+
+        # return the matching coordinates
+        return list(pacific.intersection(atlantic))
