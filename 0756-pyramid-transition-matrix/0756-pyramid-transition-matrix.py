@@ -3,7 +3,7 @@ class Solution:
         mp = defaultdict(list)
         for s in allowed:
             mp[s[:2]].append(s[2])
-        memo = {}
+        @lru_cache(None)
         def canBuild(row :str) -> bool:
             if len(row) == 1:
                 return True
