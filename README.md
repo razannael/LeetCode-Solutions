@@ -21,6 +21,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/razannael/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Greedy
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
