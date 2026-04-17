@@ -255,4 +255,8 @@
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/razannael/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
