@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0163-missing-ranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0163-missing-ranges/) | Easy |
+| [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
@@ -179,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -285,4 +287,12 @@
 | [1193-monthly-transactions-i](https://github.com/razannael/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/razannael/LeetCode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/razannael/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 <!---LeetCode Topics End-->
