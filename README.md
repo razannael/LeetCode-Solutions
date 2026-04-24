@@ -277,6 +277,7 @@
 | [0178-rank-scores](https://github.com/razannael/LeetCode-Solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/razannael/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0184-department-highest-salary](https://github.com/razannael/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/razannael/LeetCode-Solutions/tree/main/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/razannael/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/razannael/LeetCode-Solutions/tree/main/0585-investments-in-2016/) | Medium |
