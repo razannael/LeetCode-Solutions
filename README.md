@@ -17,6 +17,7 @@
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0755-pour-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0755-pour-water/) | Medium |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1476-subrectangle-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -54,6 +55,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1476-subrectangle-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -155,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -237,12 +240,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
