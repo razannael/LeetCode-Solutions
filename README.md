@@ -18,6 +18,7 @@
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0755-pour-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0755-pour-water/) | Medium |
+| [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1476-subrectangle-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
@@ -205,6 +206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
@@ -234,6 +236,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/razannael/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -353,4 +356,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 <!---LeetCode Topics End-->
