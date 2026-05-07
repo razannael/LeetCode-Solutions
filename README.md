@@ -48,6 +48,7 @@
 | [3488-closest-equal-element-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3660-jump-game-ix](https://github.com/razannael/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3660-jump-game-ix](https://github.com/razannael/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
