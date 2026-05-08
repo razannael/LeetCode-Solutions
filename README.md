@@ -337,12 +337,14 @@
 | ------- | ------- |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -378,6 +380,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
