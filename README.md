@@ -98,6 +98,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -125,6 +126,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/razannael/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
@@ -165,6 +167,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0089-gray-code](https://github.com/razannael/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0489-robot-room-cleaner](https://github.com/razannael/LeetCode-Solutions/tree/main/0489-robot-room-cleaner/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
