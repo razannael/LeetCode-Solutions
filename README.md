@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/razannael/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0163-missing-ranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0163-missing-ranges/) | Easy |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -206,6 +208,7 @@
 | [0009-palindrome-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/razannael/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/razannael/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
@@ -379,6 +382,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0812-largest-triangle-area](https://github.com/razannael/LeetCode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/razannael/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/razannael/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
