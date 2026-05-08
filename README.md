@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/razannael/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -128,6 +129,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/razannael/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/razannael/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
