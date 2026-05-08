@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/razannael/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0163-missing-ranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0163-missing-ranges/) | Easy |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -110,6 +111,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/razannael/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
