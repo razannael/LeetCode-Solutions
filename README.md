@@ -44,6 +44,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2043-simple-bank-system](https://github.com/razannael/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
@@ -452,4 +453,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/razannael/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 <!---LeetCode Topics End-->
