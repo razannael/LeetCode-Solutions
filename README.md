@@ -115,6 +115,7 @@
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/razannael/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/razannael/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -209,6 +210,7 @@
 | [0788-rotated-digits](https://github.com/razannael/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1622-fancy-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -388,4 +390,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0489-robot-room-cleaner](https://github.com/razannael/LeetCode-Solutions/tree/main/0489-robot-room-cleaner/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 <!---LeetCode Topics End-->
