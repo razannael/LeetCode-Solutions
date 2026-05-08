@@ -106,6 +106,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
@@ -473,6 +474,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
