@@ -27,6 +27,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0755-pour-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0755-pour-water/) | Medium |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
@@ -162,6 +163,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/razannael/LeetCode-Solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -185,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/razannael/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
