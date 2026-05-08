@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0163-missing-ranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0163-missing-ranges/) | Easy |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
@@ -179,6 +180,7 @@
 | ------- | ------- |
 | [0089-gray-code](https://github.com/razannael/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/razannael/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
