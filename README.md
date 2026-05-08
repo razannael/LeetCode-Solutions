@@ -155,6 +155,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/razannael/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0489-robot-room-cleaner](https://github.com/razannael/LeetCode-Solutions/tree/main/0489-robot-room-cleaner/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -174,6 +175,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/razannael/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/razannael/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -212,6 +214,7 @@
 | [0009-palindrome-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/razannael/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0089-gray-code](https://github.com/razannael/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/razannael/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
