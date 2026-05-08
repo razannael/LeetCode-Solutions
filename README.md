@@ -22,6 +22,7 @@
 | [0198-house-robber](https://github.com/razannael/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/razannael/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -180,6 +181,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/razannael/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
