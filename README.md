@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/razannael/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -164,6 +165,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/razannael/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -295,6 +297,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/razannael/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
@@ -444,6 +447,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -521,4 +525,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
