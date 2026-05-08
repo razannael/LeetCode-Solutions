@@ -75,6 +75,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/razannael/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/razannael/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -144,6 +145,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/razannael/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -208,6 +210,7 @@
 | [0371-sum-of-two-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
