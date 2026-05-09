@@ -55,6 +55,7 @@
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1929-concatenation-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -142,6 +143,7 @@
 | [0755-pour-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0755-pour-water/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1929-concatenation-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/razannael/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/razannael/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Dynamic Programming
