@@ -45,6 +45,7 @@
 | [0994-rotting-oranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
+| [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1470-shuffle-the-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -397,6 +398,7 @@
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -409,6 +411,7 @@
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0994-rotting-oranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
