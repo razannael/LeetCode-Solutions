@@ -72,6 +72,7 @@
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/razannael/LeetCode-Solutions/tree/main/2061-number-of-spaces-cleaning-robot-cleaned/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/razannael/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2080-range-frequency-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -215,6 +216,7 @@
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2043-simple-bank-system](https://github.com/razannael/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -267,6 +269,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2080-range-frequency-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/razannael/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -388,6 +391,7 @@
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
