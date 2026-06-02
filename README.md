@@ -97,6 +97,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/razannael/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/razannael/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
@@ -112,6 +113,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/razannael/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +410,7 @@
 | [2126-destroying-asteroids](https://github.com/razannael/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/razannael/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +426,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
