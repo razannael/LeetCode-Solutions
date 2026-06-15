@@ -450,6 +450,7 @@
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/razannael/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -496,6 +497,7 @@
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/razannael/LeetCode-Solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
