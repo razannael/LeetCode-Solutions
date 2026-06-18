@@ -368,6 +368,7 @@
 | [0812-largest-triangle-area](https://github.com/razannael/LeetCode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/razannael/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/razannael/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
