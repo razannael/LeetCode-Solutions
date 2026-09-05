@@ -38,6 +38,7 @@
 | [0485-max-consecutive-ones](https://github.com/razannael/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0741-cherry-pickup](https://github.com/razannael/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0755-pour-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0755-pour-water/) | Medium |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
@@ -267,6 +268,7 @@
 | [0460-lfu-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -330,6 +332,7 @@
 | [0137-single-number-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/razannael/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
@@ -461,6 +464,7 @@
 | [0056-merge-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
