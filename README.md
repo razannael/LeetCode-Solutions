@@ -174,6 +174,7 @@
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -233,6 +234,7 @@
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0741-cherry-pickup](https://github.com/razannael/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0788-rotated-digits](https://github.com/razannael/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
