@@ -21,6 +21,7 @@
 | [0136-single-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/razannael/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -410,6 +411,7 @@
 | [0060-permutation-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0089-gray-code](https://github.com/razannael/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/razannael/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/razannael/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/razannael/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
@@ -701,6 +703,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/razannael/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
