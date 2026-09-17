@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/razannael/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/razannael/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/razannael/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -706,6 +707,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/razannael/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/razannael/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/razannael/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/razannael/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -718,6 +720,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/razannael/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/razannael/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/razannael/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -757,4 +760,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razannael/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/razannael/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
