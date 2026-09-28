@@ -197,6 +197,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/razannael/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -737,6 +738,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/razannael/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -790,4 +792,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
