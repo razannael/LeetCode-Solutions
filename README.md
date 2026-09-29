@@ -190,6 +190,7 @@
 | [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0751-ip-to-cidr](https://github.com/razannael/LeetCode-Solutions/tree/main/0751-ip-to-cidr/) | Medium |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
@@ -379,6 +380,7 @@
 | [0191-number-of-1-bits](https://github.com/razannael/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0751-ip-to-cidr](https://github.com/razannael/LeetCode-Solutions/tree/main/0751-ip-to-cidr/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
