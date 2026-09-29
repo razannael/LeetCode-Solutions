@@ -195,6 +195,7 @@
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -575,6 +576,7 @@
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -590,6 +592,7 @@
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0994-rotting-oranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -716,6 +719,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0489-robot-room-cleaner](https://github.com/razannael/LeetCode-Solutions/tree/main/0489-robot-room-cleaner/) | Hard |
+| [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
