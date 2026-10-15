@@ -109,6 +109,7 @@
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/razannael/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -351,6 +352,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/razannael/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/razannael/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -549,6 +551,7 @@
 | [0715-range-module](https://github.com/razannael/LeetCode-Solutions/tree/main/0715-range-module/) | Hard |
 | [1622-fancy-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [2080-range-frequency-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -823,6 +826,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3161-block-placement-queries/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
