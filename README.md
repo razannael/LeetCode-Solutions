@@ -67,6 +67,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -289,6 +290,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1871-jump-game-vii](https://github.com/razannael/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -451,6 +453,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -493,6 +496,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/razannael/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/razannael/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1622-fancy-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/razannael/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
@@ -617,6 +621,7 @@
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/razannael/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razannael/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -672,11 +677,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/razannael/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razannael/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Data Stream
@@ -775,6 +782,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/razannael/LeetCode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -783,6 +791,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/razannael/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0191-number-of-1-bits](https://github.com/razannael/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -882,4 +891,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0465-optimal-account-balancing](https://github.com/razannael/LeetCode-Solutions/tree/main/0465-optimal-account-balancing/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
