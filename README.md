@@ -238,6 +238,7 @@
 | [1871-jump-game-vii](https://github.com/razannael/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/razannael/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/razannael/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/razannael/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -511,6 +512,7 @@
 | [1872-stone-game-viii](https://github.com/razannael/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2409-count-days-spent-together](https://github.com/razannael/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/razannael/LeetCode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/razannael/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
