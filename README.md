@@ -44,6 +44,7 @@
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/razannael/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
 | [0739-daily-temperatures](https://github.com/razannael/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0741-cherry-pickup](https://github.com/razannael/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0755-pour-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0755-pour-water/) | Medium |
@@ -347,6 +348,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razannael/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -636,6 +638,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -648,6 +651,7 @@
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
 | [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -701,6 +705,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
