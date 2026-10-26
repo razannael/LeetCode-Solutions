@@ -136,6 +136,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/razannael/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/razannael/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -210,6 +211,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/razannael/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +474,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -663,6 +666,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razannael/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -680,6 +684,7 @@
 | [1730-shortest-path-to-get-food](https://github.com/razannael/LeetCode-Solutions/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/razannael/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/razannael/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
