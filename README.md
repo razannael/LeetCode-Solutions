@@ -81,6 +81,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/razannael/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/razannael/LeetCode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/razannael/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -428,6 +429,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/razannael/LeetCode-Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/razannael/LeetCode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/razannael/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/razannael/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
