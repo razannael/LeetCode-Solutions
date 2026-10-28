@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/beautiful-array/?envType=problem-list-v2&envId=math">932. Beautiful Array</a></h2><h3>Medium</h3><hr><p>An array <code>nums</code> of length <code>n</code> is <strong>beautiful</strong> if:</p>
+<h2><a href="https://leetcode.com/problems/beautiful-array">932. Beautiful Array</a></h2><h3>Medium</h3><hr><p>An array <code>nums</code> of length <code>n</code> is <strong>beautiful</strong> if:</p>
 
 <ul>
 	<li><code>nums</code> is a permutation of the integers in the range <code>[1, n]</code>.</li>
