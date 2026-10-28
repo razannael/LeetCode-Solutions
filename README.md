@@ -61,6 +61,7 @@
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/razannael/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razannael/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -564,6 +565,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [1046-last-stone-weight](https://github.com/razannael/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/razannael/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
