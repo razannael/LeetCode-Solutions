@@ -40,6 +40,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0465-optimal-account-balancing](https://github.com/razannael/LeetCode-Solutions/tree/main/0465-optimal-account-balancing/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/razannael/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0487-max-consecutive-ones-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/razannael/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -298,6 +299,7 @@
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0465-optimal-account-balancing](https://github.com/razannael/LeetCode-Solutions/tree/main/0465-optimal-account-balancing/) | Hard |
+| [0487-max-consecutive-ones-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0741-cherry-pickup](https://github.com/razannael/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0788-rotated-digits](https://github.com/razannael/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -330,6 +332,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0487-max-consecutive-ones-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
