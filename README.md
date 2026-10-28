@@ -242,6 +242,7 @@
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0481-magical-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0481-magical-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/razannael/LeetCode-Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/razannael/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -692,6 +693,7 @@
 | [0061-rotate-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/razannael/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0481-magical-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
