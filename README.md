@@ -276,6 +276,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0206-reverse-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -716,6 +717,7 @@
 | [0061-rotate-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/razannael/LeetCode-Solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
