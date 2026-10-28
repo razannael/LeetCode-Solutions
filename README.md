@@ -264,6 +264,7 @@
 | [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -885,6 +886,7 @@
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/razannael/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1039,12 +1041,14 @@
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/razannael/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/razannael/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1073,10 +1077,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
