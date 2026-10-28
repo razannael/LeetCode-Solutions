@@ -149,6 +149,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/razannael/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -212,6 +213,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/razannael/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +325,7 @@
 | [3660-jump-game-ix](https://github.com/razannael/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +439,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/razannael/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/razannael/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
