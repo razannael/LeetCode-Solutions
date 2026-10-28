@@ -361,6 +361,7 @@
 | [0001-two-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/razannael/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/razannael/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -720,6 +721,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/razannael/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/razannael/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
