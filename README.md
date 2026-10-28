@@ -242,6 +242,7 @@
 | [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/razannael/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0481-magical-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0481-magical-string/) | Medium |
@@ -880,6 +881,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/razannael/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
@@ -1034,11 +1036,13 @@
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/razannael/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/razannael/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 ## Boyer–Moore String-Search Algorithm
@@ -1065,4 +1069,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/razannael/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
