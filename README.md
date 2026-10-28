@@ -243,6 +243,7 @@
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/razannael/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0481-magical-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0481-magical-string/) | Medium |
@@ -300,6 +301,7 @@
 | [0060-permutation-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
+| [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
@@ -933,6 +935,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/razannael/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/razannael/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/razannael/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/razannael/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/razannael/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
