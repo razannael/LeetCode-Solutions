@@ -227,6 +227,7 @@
 | [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0482-license-key-formatting](https://github.com/razannael/LeetCode-Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/razannael/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0751-ip-to-cidr](https://github.com/razannael/LeetCode-Solutions/tree/main/0751-ip-to-cidr/) | Medium |
