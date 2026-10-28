@@ -1,8 +1,10 @@
-<h2><a href="https://leetcode.com/problems/3sum-closest">16. 3Sum Closest</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code> and an integer <code>target</code>, find three integers in <code>nums</code> such that the sum is closest to <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/3sum-closest">16. 3Sum Closest</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>target</code>.</p>
 
-<p>Return <em>the sum of the three integers</em>.</p>
+<p>Find three integers at <strong>distinct indices</strong> in <code>nums</code> such that the sum is <strong>closest</strong> to <code>target</code>.</p>
 
-<p>You may assume that each input would have exactly one solution.</p>
+<p>Return the sum of the three integers.</p>
+
+<p>You may assume that each input would have <strong>exactly</strong> one solution.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
