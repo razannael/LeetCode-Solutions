@@ -232,6 +232,7 @@
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0751-ip-to-cidr](https://github.com/razannael/LeetCode-Solutions/tree/main/0751-ip-to-cidr/) | Medium |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [0831-masking-personal-information](https://github.com/razannael/LeetCode-Solutions/tree/main/0831-masking-personal-information/) | Medium |
 | [0856-score-of-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/razannael/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
