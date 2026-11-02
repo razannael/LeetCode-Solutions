@@ -68,6 +68,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/razannael/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0994-rotting-oranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
@@ -418,6 +419,7 @@
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -547,6 +549,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -596,6 +599,7 @@
 | [0836-rectangle-overlap](https://github.com/razannael/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/razannael/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0932-beautiful-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/razannael/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/razannael/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -928,6 +932,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [2523-closest-prime-numbers-in-range](https://github.com/razannael/LeetCode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/razannael/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Interactive
@@ -1132,4 +1137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/razannael/LeetCode-Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 <!---LeetCode Topics End-->
