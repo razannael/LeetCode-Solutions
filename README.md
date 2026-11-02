@@ -106,6 +106,7 @@
 | [1730-shortest-path-to-get-food](https://github.com/razannael/LeetCode-Solutions/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/razannael/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/razannael/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1765-map-of-highest-peak](https://github.com/razannael/LeetCode-Solutions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1840-maximum-building-height](https://github.com/razannael/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -230,6 +231,7 @@
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/razannael/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1730-shortest-path-to-get-food](https://github.com/razannael/LeetCode-Solutions/tree/main/1730-shortest-path-to-get-food/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/razannael/LeetCode-Solutions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -820,6 +822,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1730-shortest-path-to-get-food](https://github.com/razannael/LeetCode-Solutions/tree/main/1730-shortest-path-to-get-food/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/razannael/LeetCode-Solutions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/razannael/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/razannael/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/razannael/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
