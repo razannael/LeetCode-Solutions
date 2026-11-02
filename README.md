@@ -566,6 +566,7 @@
 | [2076-process-restricted-friend-requests](https://github.com/razannael/LeetCode-Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/razannael/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/razannael/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
@@ -581,6 +582,7 @@
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/razannael/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/razannael/LeetCode-Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/razannael/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -796,6 +798,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/razannael/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razannael/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/razannael/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/razannael/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -819,6 +822,7 @@
 | [1730-shortest-path-to-get-food](https://github.com/razannael/LeetCode-Solutions/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/razannael/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/razannael/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/razannael/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/razannael/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
