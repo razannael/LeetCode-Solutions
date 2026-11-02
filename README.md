@@ -579,6 +579,7 @@
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/razannael/LeetCode-Solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/razannael/LeetCode-Solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/razannael/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/razannael/LeetCode-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/razannael/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -818,6 +819,7 @@
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/razannael/LeetCode-Solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
