@@ -592,6 +592,7 @@
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/razannael/LeetCode-Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/razannael/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/razannael/LeetCode-Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/razannael/LeetCode-Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/razannael/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -678,6 +679,7 @@
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/razannael/LeetCode-Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/razannael/LeetCode-Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -699,6 +701,7 @@
 | [1622-fancy-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [2043-simple-bank-system](https://github.com/razannael/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/razannael/LeetCode-Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1114,6 +1117,7 @@
 | [0743-network-delay-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/razannael/LeetCode-Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/razannael/LeetCode-Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
