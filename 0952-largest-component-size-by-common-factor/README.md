@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-component-size-by-common-factor/?envType=problem-list-v2&envId=math">952. Largest Component Size by Common Factor</a></h2><h3>Hard</h3><hr><p>You are given an integer array of unique positive integers <code>nums</code>. Consider the following graph:</p>
+<h2><a href="https://leetcode.com/problems/largest-component-size-by-common-factor">952. Largest Component Size by Common Factor</a></h2><h3>Hard</h3><hr><p>You are given an integer array of unique positive integers <code>nums</code>. Consider the following graph:</p>
 
 <ul>
 	<li>There are <code>nums.length</code> nodes, labeled <code>nums[0]</code> to <code>nums[nums.length - 1]</code>,</li>
