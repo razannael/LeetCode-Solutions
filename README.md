@@ -579,6 +579,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/razannael/LeetCode-Solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/razannael/LeetCode-Solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
@@ -666,6 +667,7 @@
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/razannael/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0743-network-delay-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/razannael/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -795,6 +797,7 @@
 | [0463-island-perimeter](https://github.com/razannael/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
 | [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
+| [0743-network-delay-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -819,6 +822,7 @@
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/razannael/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
+| [0743-network-delay-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/razannael/LeetCode-Solutions/tree/main/0815-bus-routes/) | Hard |
 | [0994-rotting-oranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -1099,11 +1103,13 @@
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bitmask
