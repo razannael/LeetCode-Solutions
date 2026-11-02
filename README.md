@@ -556,6 +556,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2076-process-restricted-friend-requests](https://github.com/razannael/LeetCode-Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -564,6 +565,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/razannael/LeetCode-Solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [2076-process-restricted-friend-requests](https://github.com/razannael/LeetCode-Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
