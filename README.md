@@ -77,6 +77,7 @@
 | [1200-minimum-absolute-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/razannael/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/razannael/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -426,6 +427,7 @@
 | [0666-path-sum-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/0666-path-sum-iv/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/razannael/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razannael/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -577,6 +579,7 @@
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/razannael/LeetCode-Solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/razannael/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/razannael/LeetCode-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/razannael/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/razannael/LeetCode-Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -717,6 +720,7 @@
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1311-get-watched-videos-by-your-friends](https://github.com/razannael/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razannael/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -817,6 +821,7 @@
 | [1236-web-crawler](https://github.com/razannael/LeetCode-Solutions/tree/main/1236-web-crawler/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/razannael/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/razannael/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
