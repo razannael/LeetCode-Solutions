@@ -1,8 +1,20 @@
+from typing import List
+
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1, rob2 = 0,0
-        for n in nums :
-            temp = max(n + rob1 , rob2)
-            rob1 = rob2
-            rob2 = temp
-        return temp
+        memo = {}
+
+        def dfs(i):
+            if i >= len(nums):
+                return 0
+
+            if i in memo:
+                return memo[i]
+
+            rob_this = nums[i] + dfs(i + 2)
+            skip_this = dfs(i + 1)
+
+            memo[i] = max(rob_this, skip_this)
+            return memo[i]
+
+        return dfs(0)
