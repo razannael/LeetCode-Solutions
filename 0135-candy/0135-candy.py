@@ -1,29 +1,34 @@
 class Solution:
-    def candy(self, ratings: List[int]) -> int:
+    def candy(self, ratings: list[int]) -> int:
         n = len(ratings)
-        total_candies = n
-        i = 1
-
-        while i < n:
-            if ratings[i] == ratings[i - 1]:
-                i += 1
-                continue
-
-            current_peak = 0
-            while i < n and ratings[i] > ratings[i - 1]:
-                current_peak += 1
-                total_candies += current_peak
-                i += 1
-            
-            if i == n:
-                return total_candies
-
-            current_valley = 0
-            while i < n and ratings[i] < ratings[i - 1]:
-                current_valley += 1
-                total_candies += current_valley
-                i += 1
-
-            total_candies -= min(current_peak, current_valley)
-
-        return total_candies
+        if n == 1:
+            return n
+        prev = ratings[0]
+        streak = 1
+        stack = 1
+        d = 0
+        lpeak = 0
+        for i, num in enumerate(ratings):
+            if num > prev:
+                n += streak
+                streak += 1
+                stack = 1
+                lpeak = streak
+            elif lpeak > stack and num < prev:
+                n += stack - 1
+                stack += 1
+                streak = 1
+            elif lpeak == stack and num < prev:
+                n += stack
+                stack += 1
+                streak = 1
+            elif num < prev:
+                n += stack
+                stack += 1
+                streak = 1
+            else:
+                streak = 1
+                stack = 1
+                lpeak = 0
+            prev = num
+        return n
