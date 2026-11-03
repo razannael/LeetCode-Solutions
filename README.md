@@ -40,6 +40,7 @@
 | [0238-product-of-array-except-self](https://github.com/razannael/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/razannael/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/razannael/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -693,6 +694,7 @@
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/razannael/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/razannael/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/razannael/LeetCode-Solutions/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -709,6 +711,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/razannael/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0715-range-module](https://github.com/razannael/LeetCode-Solutions/tree/main/0715-range-module/) | Hard |
 | [1622-fancy-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
@@ -1021,6 +1024,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/razannael/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/razannael/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/razannael/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -1083,6 +1087,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/razannael/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -1232,4 +1237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0687-longest-univalue-path](https://github.com/razannael/LeetCode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/razannael/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
