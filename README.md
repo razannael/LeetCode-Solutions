@@ -57,6 +57,7 @@
 | [0485-max-consecutive-ones](https://github.com/razannael/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0487-max-consecutive-ones-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/razannael/LeetCode-Solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/razannael/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0582-kill-process](https://github.com/razannael/LeetCode-Solutions/tree/main/0582-kill-process/) | Medium |
@@ -372,6 +373,7 @@
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0465-optimal-account-balancing](https://github.com/razannael/LeetCode-Solutions/tree/main/0465-optimal-account-balancing/) | Hard |
 | [0487-max-consecutive-ones-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0487-max-consecutive-ones-ii/) | Medium |
+| [0494-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0741-cherry-pickup](https://github.com/razannael/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0788-rotated-digits](https://github.com/razannael/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -493,6 +495,7 @@
 | [0093-restore-ip-addresses](https://github.com/razannael/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0465-optimal-account-balancing](https://github.com/razannael/LeetCode-Solutions/tree/main/0465-optimal-account-balancing/) | Hard |
 | [0489-robot-room-cleaner](https://github.com/razannael/LeetCode-Solutions/tree/main/0489-robot-room-cleaner/) | Hard |
+| [0494-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -1300,4 +1303,12 @@
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/razannael/LeetCode-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
