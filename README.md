@@ -29,6 +29,7 @@
 | [0135-candy](https://github.com/razannael/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/razannael/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -276,6 +277,7 @@
 | [0093-restore-ip-addresses](https://github.com/razannael/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/razannael/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -370,6 +372,7 @@
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/razannael/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/razannael/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/razannael/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
@@ -432,6 +435,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/razannael/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/razannael/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/razannael/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -957,6 +961,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/razannael/LeetCode-Solutions/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/razannael/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
@@ -1198,6 +1203,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/razannael/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
@@ -1315,4 +1321,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
