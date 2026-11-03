@@ -487,6 +487,7 @@
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/razannael/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -560,6 +561,7 @@
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/razannael/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/razannael/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/razannael/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -866,6 +868,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/razannael/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/razannael/LeetCode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razannael/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
@@ -891,6 +894,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razannael/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/razannael/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/razannael/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
