@@ -933,6 +933,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/razannael/LeetCode-Solutions/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/razannael/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1032-stream-of-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/1032-stream-of-characters/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
