@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/stone-game/?envType=problem-list-v2&envId=math">877. Stone Game</a></h2><h3>Medium</h3><hr><p>Alice and Bob play a game with piles of stones. There are an <strong>even</strong> number of piles arranged in a row, and each pile has a <strong>positive</strong> integer number of stones <code>piles[i]</code>.</p>
+<h2><a href="https://leetcode.com/problems/stone-game">877. Stone Game</a></h2><h3>Medium</h3><hr><p>Alice and Bob play a game with piles of stones. There are an <strong>even</strong> number of piles arranged in a row, and each pile has a <strong>positive</strong> integer number of stones <code>piles[i]</code>.</p>
 
 <p>The objective of the game is to end with the most stones. The <strong>total</strong> number of stones across all the piles is <strong>odd</strong>, so there are no ties.</p>
 
