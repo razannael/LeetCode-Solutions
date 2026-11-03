@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/razannael/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/razannael/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -197,6 +198,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/razannael/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/razannael/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -798,6 +800,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/razannael/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
