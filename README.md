@@ -41,6 +41,7 @@
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0221-maximal-square](https://github.com/razannael/LeetCode-Solutions/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/razannael/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
@@ -239,6 +240,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/razannael/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/razannael/LeetCode-Solutions/tree/main/0221-maximal-square/) | Medium |
 | [0463-island-perimeter](https://github.com/razannael/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0531-lonely-pixel-i](https://github.com/razannael/LeetCode-Solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0741-cherry-pickup](https://github.com/razannael/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
@@ -380,6 +382,7 @@
 | [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/razannael/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/razannael/LeetCode-Solutions/tree/main/0221-maximal-square/) | Medium |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0396-rotate-function](https://github.com/razannael/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0465-optimal-account-balancing](https://github.com/razannael/LeetCode-Solutions/tree/main/0465-optimal-account-balancing/) | Hard |
