@@ -178,6 +178,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/razannael/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -654,6 +655,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/razannael/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/razannael/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/razannael/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
