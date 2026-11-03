@@ -80,6 +80,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/razannael/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
+| [0948-bag-of-tokens](https://github.com/razannael/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0994-rotting-oranges](https://github.com/razannael/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -210,6 +211,7 @@
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/razannael/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/razannael/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0948-bag-of-tokens](https://github.com/razannael/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -789,6 +791,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/razannael/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0948-bag-of-tokens](https://github.com/razannael/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/razannael/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
@@ -835,6 +838,7 @@
 | [0141-linked-list-cycle](https://github.com/razannael/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0481-magical-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0948-bag-of-tokens](https://github.com/razannael/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/razannael/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
