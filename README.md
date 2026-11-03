@@ -71,6 +71,7 @@
 | [0812-largest-triangle-area](https://github.com/razannael/LeetCode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0815-bus-routes](https://github.com/razannael/LeetCode-Solutions/tree/main/0815-bus-routes/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/razannael/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/razannael/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -197,6 +198,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0860-lemonade-change](https://github.com/razannael/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/razannael/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
