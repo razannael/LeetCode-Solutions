@@ -673,6 +673,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/razannael/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/razannael/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/razannael/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1622-fancy-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/razannael/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -1054,6 +1055,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1492-the-kth-factor-of-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/razannael/LeetCode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/razannael/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -1276,6 +1278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/razannael/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1492-the-kth-factor-of-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
