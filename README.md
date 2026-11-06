@@ -157,6 +157,7 @@
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/razannael/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/razannael/LeetCode-Solutions/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/razannael/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/razannael/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -438,6 +439,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/razannael/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/razannael/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/razannael/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/razannael/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/razannael/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/razannael/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -491,6 +493,7 @@
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/razannael/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/razannael/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -823,6 +826,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/razannael/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/razannael/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/razannael/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/razannael/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
