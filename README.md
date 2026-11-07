@@ -130,6 +130,7 @@
 | [1861-rotating-the-box](https://github.com/razannael/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/razannael/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/razannael/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/razannael/LeetCode-Solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -747,6 +748,7 @@
 | [1354-construct-target-array-with-multiple-sums](https://github.com/razannael/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/razannael/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/razannael/LeetCode-Solutions/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/razannael/LeetCode-Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
