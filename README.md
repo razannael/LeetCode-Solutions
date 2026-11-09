@@ -101,6 +101,7 @@
 | [1386-cinema-seat-allocation](https://github.com/razannael/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1470-shuffle-the-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/razannael/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1476-subrectangle-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
@@ -407,6 +408,7 @@
 | [1191-k-concatenation-maximum-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/razannael/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -1422,4 +1424,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/razannael/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 <!---LeetCode Topics End-->
