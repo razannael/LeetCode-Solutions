@@ -292,6 +292,7 @@
 | [0093-restore-ip-addresses](https://github.com/razannael/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0127-word-ladder](https://github.com/razannael/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
@@ -455,6 +456,7 @@
 | [0041-first-missing-positive](https://github.com/razannael/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/razannael/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/razannael/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/razannael/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
@@ -927,6 +929,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/razannael/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/razannael/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/razannael/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/razannael/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
@@ -1415,4 +1418,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/razannael/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/razannael/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
