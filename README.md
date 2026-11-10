@@ -201,6 +201,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/razannael/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/razannael/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -431,6 +432,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/razannael/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/razannael/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
