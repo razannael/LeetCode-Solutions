@@ -182,6 +182,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/razannael/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/razannael/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -454,6 +455,7 @@
 | [2747-count-zero-request-servers](https://github.com/razannael/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/razannael/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/razannael/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/razannael/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -808,6 +810,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/razannael/LeetCode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -1069,6 +1072,7 @@
 | [0281-zigzag-iterator](https://github.com/razannael/LeetCode-Solutions/tree/main/0281-zigzag-iterator/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/razannael/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/razannael/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1171,6 +1175,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/razannael/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/razannael/LeetCode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1180,6 +1185,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/razannael/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/razannael/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/razannael/LeetCode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1200,6 +1206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
