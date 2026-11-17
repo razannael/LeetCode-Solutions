@@ -345,6 +345,7 @@
 | [2833-furthest-point-from-origin](https://github.com/razannael/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/razannael/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/razannael/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/razannael/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -432,6 +433,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/razannael/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/razannael/LeetCode-Solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/razannael/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/razannael/LeetCode-Solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -895,6 +897,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/razannael/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/razannael/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Tree
