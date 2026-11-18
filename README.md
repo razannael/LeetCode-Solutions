@@ -346,6 +346,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/razannael/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/razannael/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/razannael/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/razannael/LeetCode-Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/razannael/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
