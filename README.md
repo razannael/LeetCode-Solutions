@@ -343,6 +343,7 @@
 | [1871-jump-game-vii](https://github.com/razannael/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/razannael/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/razannael/LeetCode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/razannael/LeetCode-Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/razannael/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/razannael/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
