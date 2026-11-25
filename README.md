@@ -223,6 +223,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -553,6 +554,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/razannael/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/razannael/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -652,6 +654,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/razannael/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/razannael/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1383,12 +1386,14 @@
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/razannael/LeetCode-Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/razannael/LeetCode-Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1397,6 +1402,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/razannael/LeetCode-Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/razannael/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
