@@ -324,6 +324,7 @@
 | [0686-repeated-string-match](https://github.com/razannael/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/razannael/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0751-ip-to-cidr](https://github.com/razannael/LeetCode-Solutions/tree/main/0751-ip-to-cidr/) | Medium |
+| [0761-special-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0761-special-binary-string/) | Hard |
 | [0796-rotate-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/razannael/LeetCode-Solutions/tree/main/0831-masking-personal-information/) | Medium |
 | [0856-score-of-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -868,6 +869,7 @@
 | [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/razannael/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0759-employee-free-time](https://github.com/razannael/LeetCode-Solutions/tree/main/0759-employee-free-time/) | Hard |
+| [0761-special-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0761-special-binary-string/) | Hard |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0948-bag-of-tokens](https://github.com/razannael/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -1201,6 +1203,7 @@
 | [0307-range-sum-query-mutable](https://github.com/razannael/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/razannael/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0761-special-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0761-special-binary-string/) | Hard |
 | [0912-sort-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
