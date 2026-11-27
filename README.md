@@ -314,6 +314,7 @@
 | [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [0408-valid-word-abbreviation](https://github.com/razannael/LeetCode-Solutions/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/razannael/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/razannael/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0481-magical-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0481-magical-string/) | Medium |
@@ -918,6 +919,7 @@
 | [0061-rotate-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/razannael/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0408-valid-word-abbreviation](https://github.com/razannael/LeetCode-Solutions/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0481-magical-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0948-bag-of-tokens](https://github.com/razannael/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
