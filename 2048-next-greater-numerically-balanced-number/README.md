@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/next-greater-numerically-balanced-number">2048. Next Greater Numerically Balanced Number</a></h2><h3>Medium</h3><hr><p>An integer <code>x</code> is <strong>numerically balanced</strong> if for every digit <code>d</code> in the number <code>x</code>, there are <strong>exactly</strong> <code>d</code> occurrences of that digit in <code>x</code>.</p>
+<h2><a href="https://leetcode.com/quest/2026-spring-sprint/quiz/next-greater-numerically-balanced-number/description/?envType=problem-list-v2&envId=interview-benchmark-v">2048. Next Greater Numerically Balanced Number</a></h2><h3>Medium</h3><hr><p>An integer <code>x</code> is <strong>numerically balanced</strong> if for every digit <code>d</code> in the number <code>x</code>, there are <strong>exactly</strong> <code>d</code> occurrences of that digit in <code>x</code>.</p>
 
 <p>Given an integer <code>n</code>, return <em>the <strong>smallest numerically balanced</strong> number <strong>strictly greater</strong> than </em><code>n</code><em>.</em></p>
 
