@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lfu-cache">460. LFU Cache</a></h2><h3>Hard</h3><hr><p>Design and implement a data structure for a <a href="https://en.wikipedia.org/wiki/Least_frequently_used" target="_blank">Least Frequently Used (LFU)</a> cache.</p>
+<h2><a href="https://leetcode.com/quest/2026-spring-sprint/quiz/lfu-cache/?envType=problem-list-v2&envId=interview-benchmark-vi">460. LFU Cache</a></h2><h3>Hard</h3><hr><p>Design and implement a data structure for a <a href="https://en.wikipedia.org/wiki/Least_frequently_used" target="_blank">Least Frequently Used (LFU)</a> cache.</p>
 
 <p>Implement the <code>LFUCache</code> class:</p>
 
