@@ -1,21 +1,33 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-            
-        res = []
+        candidates.sort()
 
-        def make_combination(idx, comb, total):
-            if total == target:
-                res.append(comb[:])
+        ans=[]
+
+        def sol(nums,num,target):
+            
+            if target==0:
+                ans.append(nums[:])
                 return
-            
-            if total > target or idx >= len(candidates):
+            if target<0:
                 return
+            if num>=len(candidates):
+                return
+
             
-            comb.append(candidates[idx])
-            make_combination(idx, comb, total + candidates[idx])
-            comb.pop()
-            make_combination(idx+1, comb, total)
+            nums.append(candidates[num])
+            sol(nums,num,target-candidates[num])
+            nums.pop()
+            
+            sol(nums,num+1,target)
+        
+        sol([],0,target)
+        return ans
 
-            return res
 
-        return make_combination(0, [], 0)
+
+            
+
+
+
+        
