@@ -328,6 +328,7 @@
 | [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/razannael/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0273-integer-to-english-words](https://github.com/razannael/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0408-valid-word-abbreviation](https://github.com/razannael/LeetCode-Solutions/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/razannael/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -397,6 +398,7 @@
 | [0060-permutation-sequence](https://github.com/razannael/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
+| [0273-integer-to-english-words](https://github.com/razannael/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -765,6 +767,7 @@
 | [0223-rectangle-area](https://github.com/razannael/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0233-number-of-digit-one](https://github.com/razannael/LeetCode-Solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0263-ugly-number](https://github.com/razannael/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0273-integer-to-english-words](https://github.com/razannael/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0292-nim-game](https://github.com/razannael/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/razannael/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
