@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/razannael/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/razannael/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/razannael/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -593,6 +594,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/razannael/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/razannael/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/razannael/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
