@@ -309,6 +309,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/razannael/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
@@ -480,6 +481,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/razannael/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/razannael/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -501,6 +503,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/razannael/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/razannael/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/razannael/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
