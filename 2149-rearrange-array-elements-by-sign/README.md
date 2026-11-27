@@ -1,6 +1,6 @@
-<h2><a href="https://leetcode.com/problems/rearrange-array-elements-by-sign">2149. Rearrange Array Elements by Sign</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of <strong>even</strong> length consisting of an <strong>equal</strong> number of positive and negative integers.</p>
+<h2><a href="https://leetcode.com/quest/2026-spring-sprint/quiz/rearrange-array-elements-by-sign/?envType=problem-list-v2&envId=interview-benchmark-vi">2149. Rearrange Array Elements by Sign</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of <strong>even</strong> length consisting of an <strong>equal</strong> number of positive and negative integers.</p>
 
-<p>You should return the array of nums such that the the array follows the given conditions:</p>
+<p>You should return the array of nums such that the array follows the given conditions:</p>
 
 <ol>
 	<li>Every <strong>consecutive pair</strong> of integers have <strong>opposite signs</strong>.</li>
