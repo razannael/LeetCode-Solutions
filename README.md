@@ -316,6 +316,7 @@
 | [0127-word-ladder](https://github.com/razannael/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/razannael/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/razannael/LeetCode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [0242-valid-anagram](https://github.com/razannael/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/razannael/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0408-valid-word-abbreviation](https://github.com/razannael/LeetCode-Solutions/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/razannael/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -506,6 +507,7 @@
 | [0146-lru-cache](https://github.com/razannael/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/razannael/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/razannael/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/razannael/LeetCode-Solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/razannael/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -876,6 +878,7 @@
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/razannael/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/razannael/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
