@@ -159,6 +159,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/razannael/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2361-minimum-costs-using-the-train-line](https://github.com/razannael/LeetCode-Solutions/tree/main/2361-minimum-costs-using-the-train-line/) | Hard |
+| [2488-count-subarrays-with-median-k](https://github.com/razannael/LeetCode-Solutions/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -539,6 +540,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/razannael/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2080-range-frequency-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/razannael/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2488-count-subarrays-with-median-k](https://github.com/razannael/LeetCode-Solutions/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/razannael/LeetCode-Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -599,6 +601,7 @@
 | [1872-stone-game-viii](https://github.com/razannael/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2488-count-subarrays-with-median-k](https://github.com/razannael/LeetCode-Solutions/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/razannael/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/razannael/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/razannael/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
