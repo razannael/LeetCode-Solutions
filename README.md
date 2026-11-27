@@ -440,6 +440,7 @@
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/razannael/LeetCode-Solutions/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/razannael/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -965,6 +966,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1660-correct-a-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1660-correct-a-binary-tree/) | Medium |
@@ -991,6 +993,7 @@
 | [1267-count-servers-that-communicate](https://github.com/razannael/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/razannael/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/razannael/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -1081,6 +1084,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/razannael/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/razannael/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1660-correct-a-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1660-correct-a-binary-tree/) | Medium |
@@ -1456,6 +1460,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0687-longest-univalue-path](https://github.com/razannael/LeetCode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/razannael/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
