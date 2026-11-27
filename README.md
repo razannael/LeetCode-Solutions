@@ -14,6 +14,7 @@
 | [0011-container-with-most-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/razannael/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/razannael/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/razannael/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -942,6 +943,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/razannael/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/razannael/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/razannael/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/razannael/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
