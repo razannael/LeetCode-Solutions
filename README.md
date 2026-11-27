@@ -166,6 +166,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/razannael/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2361-minimum-costs-using-the-train-line](https://github.com/razannael/LeetCode-Solutions/tree/main/2361-minimum-costs-using-the-train-line/) | Hard |
+| [2439-minimize-maximum-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2488-count-subarrays-with-median-k](https://github.com/razannael/LeetCode-Solutions/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -254,6 +255,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/razannael/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/razannael/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
@@ -467,6 +469,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/razannael/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/razannael/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2361-minimum-costs-using-the-train-line](https://github.com/razannael/LeetCode-Solutions/tree/main/2361-minimum-costs-using-the-train-line/) | Hard |
+| [2439-minimize-maximum-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/razannael/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/razannael/LeetCode-Solutions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/razannael/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -625,6 +628,7 @@
 | [1871-jump-game-vii](https://github.com/razannael/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/razannael/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2488-count-subarrays-with-median-k](https://github.com/razannael/LeetCode-Solutions/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/razannael/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -684,6 +688,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/razannael/LeetCode-Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/razannael/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/razannael/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/razannael/LeetCode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/3161-block-placement-queries/) | Hard |
