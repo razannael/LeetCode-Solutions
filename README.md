@@ -532,6 +532,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2043-simple-bank-system](https://github.com/razannael/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/razannael/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2080-range-frequency-queries](https://github.com/razannael/LeetCode-Solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/razannael/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/razannael/LeetCode-Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
@@ -574,6 +575,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/razannael/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/razannael/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/razannael/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/razannael/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/razannael/LeetCode-Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -762,6 +764,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razannael/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/razannael/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/razannael/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/razannael/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/razannael/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/razannael/LeetCode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -904,6 +907,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/razannael/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/razannael/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/razannael/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/razannael/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -1139,6 +1143,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/razannael/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/razannael/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/razannael/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/razannael/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/razannael/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Geometry
