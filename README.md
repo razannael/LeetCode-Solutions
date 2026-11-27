@@ -432,6 +432,7 @@
 | [0913-cat-and-mouse](https://github.com/razannael/LeetCode-Solutions/tree/main/0913-cat-and-mouse/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/razannael/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1191-k-concatenation-maximum-sum](https://github.com/razannael/LeetCode-Solutions/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/razannael/LeetCode-Solutions/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/razannael/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/razannael/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/razannael/LeetCode-Solutions/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
