@@ -1,9 +1,9 @@
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-        BuyP = prices[0]
-        pro = 0
-        for p in prices:
-            if p < BuyP:
-                BuyP = p
-            pro = max(pro, p - BuyP)
-        return pro
+    def maxProfit(self, prices: list[int]) -> int:
+        if len(prices) < 2:
+            return 0
+        buy, profit = float("inf"), 0
+        for i in prices:
+            buy = min(buy, i)
+            profit = max(profit, i - buy)
+        return profit
